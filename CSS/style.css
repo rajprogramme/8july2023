@@ -1,5 +1,8 @@
 
-div.container h1.a {
-    color: rgb(255, 0, 0);
-    background-color: aquamarine;
+/* you can give class name as .container or .a */
+.a {
+    color:rgb(221, 171, 152);
+    background-color: rgb(146, 102, 202);
+    font-size: large;
+    text-align: center;
 }
